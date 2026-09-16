@@ -1,0 +1,11 @@
+{
+  "title": "PlantBox - Katalog Tanaman",
+  "description": "Manage and showcase a plant catalog with features to add, delete, and display plants, including images and descriptions, for gardening enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
